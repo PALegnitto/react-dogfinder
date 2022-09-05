@@ -1,0 +1,12 @@
+.NavBar a {
+    color: blue;
+    background-color: grey;
+}
+.NavBar a.active {
+    color: red;
+    background-color: white;
+}
+.NavBar a.visited {
+    color: black;
+    background-color: white;
+}
